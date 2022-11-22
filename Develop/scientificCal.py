@@ -3,7 +3,7 @@ import math
 import tkinter.messagebox
 
 
-
+#third party scientific calculator
 def scientificCalculator():
     root = Tk()
     root.title("Scientific Calculator")
